@@ -41,3 +41,29 @@
 ---
 
 📅 *يتم التحديث بعد كل جلسة دراسة جديدة*
+---
+
+## 🧩 Practice Test (Interactive Prompt)
+
+يمكنك اختبار نفسك بأسلوب يشبه اختبار **CompTIA Network+ (N10-009)** الحقيقي باستخدام البرومبت التالي:
+
+> **Prompt:**
+> ```
+> I want to take a CompTIA Network+ N10-009 practice test in real-exam style. 📘  
+> Use the official “CompTIA Network+ N10-009 Exam Objectives (v4.0)” file that I’ll upload as your only reference source.  
+> Requirements: I will choose one of the five domains.  
+> The test must include:  
+> • 10 multiple-choice questions (MCQs)  
+> • 3 realistic scenario-based questions  
+> Difficulty: Challenging / Real Exam level  
+> Question phrasing should match the real CompTIA style (clear, technical, and contextual).  
+> After I answer: Grade my test.  
+> Show results in a table with:  
+> Question number | My answer | Correct answer | Explanation  
+> Mention the related exam objective reference from the official file.  
+> End with a short performance summary and what I should review.  
+> Do not restate or display content from the PDF; just use it as your question source.  
+> I’ll start by saying: 👉 “Test me on Domain [number].”
+> ```
+
+📘 **ملاحظة:** استخدم هذا البرومبت مع ملف الـPDF الرسمي المرفق في المستودع كمصدر الأسئلة.
