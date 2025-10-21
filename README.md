@@ -49,7 +49,7 @@
 
 > **Prompt:**
 > ```
-> I want to take a CompTIA Network+ N10-009 practice test in real-exam style. 📘  
+> I want to take a CompTIA Network+ N10-009 practice test in real-exam style.  
 > Use the official “CompTIA Network+ N10-009 Exam Objectives (v4.0)” file that I’ll upload as your only reference source.  
 > Requirements: I will choose one of the five domains.  
 > The test must include:  
@@ -63,7 +63,7 @@
 > Mention the related exam objective reference from the official file.  
 > End with a short performance summary and what I should review.  
 > Do not restate or display content from the PDF; just use it as your question source.  
-> I’ll start by saying: 👉 “Test me on Domain [number].”
+> I’ll start by saying:  “Test me on Domain [number].”
 > ```
 
 📘 **ملاحظة:** استخدم هذا البرومبت مع ملف الـPDF الرسمي المرفق في المستودع كمصدر الأسئلة.
