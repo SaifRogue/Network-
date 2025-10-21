@@ -24,8 +24,9 @@
 ---
 
 📘 حاليًا تم رفع:
-- **Domain 1**
-- **Domain 2**
+
+- [Domain 1](https://github.com/SaifRogue/Network-/blob/main/Network%2B%20Domain%201.md)
+- [Domain 2](https://github.com/SaifRogue/Network-/blob/main/Network%2B%20Domain%202.md)
 
 وسيتم رفع باقي الدومينات تدريجيًا بعد الانتهاء من دراستها ومراجعتها.
 
