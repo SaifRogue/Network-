@@ -758,8 +758,20 @@ Works only in **IPv4 networks** (IPv6 removed broadcast and uses multicast inste
 
 # Wireless Networking - CompTIA Network+ N10-009 - 1.5
 wireless standards , 802.11 networking , 
+## 📶 IEEE 802.11 Standards (Wi-Fi Generations)
 
-![[Pasted image 20251007180610.png]]
+| **IEEE Standard** | **Generation Name** | **Frequencies**         | **Maximum Theoretical Link Rate** |
+| ----------------- | ------------------- | ----------------------- | --------------------------------- |
+| **802.11a**       | –                   | 5 GHz                   | 6 – 54 Mbit/s                     |
+| **802.11b**       | –                   | 2.4 GHz                 | 1 – 11 Mbit/s                     |
+| **802.11g**       | –                   | 2.4 GHz                 | 6 – 54 Mbit/s                     |
+| **802.11n**       | **Wi-Fi 4**         | 2.4 GHz / 5 GHz         | 72 – 600 Mbit/s                   |
+| **802.11ac**      | **Wi-Fi 5**         | 5 GHz                   | 433 – 6,933 Mbit/s                |
+| **802.11ax**      | **Wi-Fi 6 / 6E**    | 2.4 GHz / 5 GHz / 6 GHz | 574 – 9,608 Mbit/s                |
+| **802.11be**      | **Wi-Fi 7**         | 2.4 GHz / 5 GHz / 6 GHz | 1,376 – 46,120 Mbit/s             |
+|                   |                     |                         |                                   |
+|                   |                     |                         |                                   |
+
 
 
 ---
