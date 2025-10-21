@@ -55,7 +55,7 @@
 ---
 
 
-![[Pasted image 20251001013322.png]]
+
 - **Layer 7 – Application**: `https://mail.google.com` (تطبيق فعلي يتفاعل مع المستخدم).
     
 - **Layer 6 – Presentation**: **SSL encryption** (التشفير).
@@ -469,7 +469,7 @@
         
     - توسع جديد ليشمل خدمات مختلفة خارج الثلاثة التقليدية.
 
-![[Professor Messer - Cloud Models - CompTIA Network+ N10-009 - 1.3 [wI2x6eGF1Yg - 853x480 - 3m54s](1).png]]
+
 
 ---
 
