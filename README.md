@@ -67,3 +67,4 @@
 > ```
 
 📘 **ملاحظة:** استخدم هذا البرومبت مع ملف الـPDF الرسمي المرفق في المستودع كمصدر الأسئلة.
+📄 [Download the official CompTIA Network+ N10-009 Exam Objectives (v4.0)](https://github.com/SaifRogue/Network-/blob/81e76ac792f43b279065aed7d287981db458788d/CompTIANetwork%2BN10-009_ExamObjectives(4.0).pdf)
