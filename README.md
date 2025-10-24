@@ -6,7 +6,7 @@
 
 > 🧠 **نصيحة:**  
 > يُفضّل مراجعة هذه الملاحظات بالتزامن مع دروس **Professor Messer** لفهم أعمق وربط المفاهيم عمليًا.  
-> 🎥 [مشاهدة سلسلة Professor Messer على يوتيوب](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=enQFSL4aZjbFJD5v)
+> 🎥 [مشاهدة سلسلة Professor Messer على يوتيوب Network+](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=enQFSL4aZjbFJD5v)
 
 ---
 
