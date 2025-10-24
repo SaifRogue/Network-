@@ -324,73 +324,77 @@
 
 ---
 
-## 🧭 Network Communication Methods
+## 🧭 **طرق الاتصال في الشبكات (Network Communication Methods)**
 
-### **1️⃣ Unicast**
-
-- **Definition:** One-to-one communication.
-    
-- **Purpose:** Sends data **from one sender to one receiver**.
-    
-- **Example:** Browsing a website (client → server).
-    
-- **Analogy:** Sending a private letter to one address.
-    
-
-**Key point:**  
-Efficient for specific communication, but not ideal for large groups.
+**Objective 1.1 – CompTIA Network+**
 
 ---
 
-### **2️⃣ Multicast**
+### 🔹 **1️⃣ Unicast (اتصال واحد إلى واحد)**
 
-- **Definition:** One-to-many communication, **only to a specific group**.
+- **التعريف:** اتصال **من جهاز واحد إلى جهاز واحد فقط**.
     
-- **Purpose:** Sends data to **multiple selected recipients** who have joined a multicast group.
+- **الوظيفة:** إرسال البيانات من مرسل محدد إلى مستقبل واحد.
     
-- **Example:** Streaming live events to multiple subscribers.
+- **المثال:** تصفح موقع ويب (من العميل إلى الخادم).
     
-- **Analogy:** Like sending one copy of a letter to a club — only members get it.
-    
-
-**Key point:**  
-Uses **Class D IP addresses (224.0.0.0–239.255.255.255)**.
-
----
-
-### **3️⃣ Anycast**
-
-- **Definition:** One-to-nearest communication.
-    
-- **Purpose:** Data is sent to **the closest (in routing terms)** of several possible receivers.
-    
-- **Example:** DNS root servers — your query reaches the nearest server.
-    
-- **Analogy:** Mailing a letter to “the nearest branch” of a global company.
+- **التشبيه:** مثل إرسال رسالة بريدية لشخص واحد بعينه.
     
 
-**Key point:**  
-Improves **performance and redundancy** by selecting the shortest network path.
+**ملاحظة:**  
+فعّال في الاتصالات الفردية، لكنه غير مناسب لبث البيانات لمجموعة كبيرة.
 
 ---
 
-### **4️⃣ Broadcast**
+### 🔹 **2️⃣ Multicast (اتصال واحد إلى مجموعة)**
 
-- **Definition:** One-to-all communication within a local network.
+- **التعريف:** اتصال **من مرسل واحد إلى مجموعة محددة** من المستقبلين.
     
-- **Purpose:** Sends data to **all devices on the subnet**.
+- **الوظيفة:** إرسال البيانات فقط للأجهزة التي انضمت إلى مجموعة Multicast.
     
-- **Example:** ARP requests, DHCP Discover messages.
+- **المثال:** بث مباشر لمتابعين محددين عبر الإنترنت.
     
-- **Analogy:** Announcing something over a loudspeaker — everyone nearby hears it.
+- **التشبيه:** مثل إرسال نسخة من رسالة إلى أعضاء نادٍ خاص فقط.
     
 
-**Key point:**  
-Works only in **IPv4 networks** (IPv6 removed broadcast and uses multicast instead).
+**ملاحظة:**  
+يستخدم عناوين **Class D (224.0.0.0 – 239.255.255.255)** في IPv4.
 
 ---
 
-### 🔹 Quick Comparison Table
+### 🔹 **3️⃣ Anycast (اتصال واحد إلى الأقرب)**
+
+- **التعريف:** إرسال من جهاز واحد إلى **أقرب جهاز** (من حيث المسار الشبكي) ضمن مجموعة أجهزة تقدم نفس الخدمة.
+    
+- **الوظيفة:** توجيه الطلب إلى أقرب خادم لتقليل التأخير وتحسين الأداء.
+    
+- **المثال:** خوادم **DNS Root Servers** – يتم الوصول إلى أقرب خادم تلقائيًا.
+    
+- **التشبيه:** مثل إرسال خطاب إلى “أقرب فرع” من شركة عالمية.
+    
+
+**ملاحظة:**  
+يعزز الأداء والاعتمادية باختيار **أقصر مسار ممكن** في الشبكة.
+
+---
+
+### 🔹 **4️⃣ Broadcast (اتصال واحد إلى الكل)**
+
+- **التعريف:** إرسال البيانات إلى **جميع الأجهزة داخل نفس الشبكة المحلية (Subnet)**.
+    
+- **الوظيفة:** يستخدم لاكتشاف الأجهزة أو الإعلان عنها.
+    
+- **المثال:** رسائل **ARP Request** أو **DHCP Discover**.
+    
+- **التشبيه:** مثل مكبر صوت يعلن للجميع في القاعة.
+    
+
+**ملاحظة:**  
+يعمل فقط في **IPv4**، بينما **IPv6** ألغاه واستبدله بـ **Multicast**.
+
+---
+
+### 📊 **جدول المقارنة السريع**
 
 | Type      | Communication Style    | IPv4 Supported | IPv6 Supported | Example Use     |
 | --------- | ---------------------- | -------------- | -------------- | --------------- |
