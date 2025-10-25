@@ -1,3 +1,4 @@
+<div dir="rtl" align="right">
 
 
 ## 📚 **OSI Model – CompTIA Network+ (Objective 1.1)**
