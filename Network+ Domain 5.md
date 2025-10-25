@@ -49,9 +49,6 @@
 - **D** – Document findings
 
 
----
----
-![[Pasted image 20251025185148.png]]
 
 ---
 ---
