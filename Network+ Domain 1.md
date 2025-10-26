@@ -1543,7 +1543,9 @@ Playbooks عادة تُستخدم داخل أنظمة SOAR لتقوم بـ:
 |**DHCP** (Dynamic Host Configuration Protocol)|67, 68|توزيع عناوين IP تلقائيًا للأجهزة|
 |**TFTP** (Trivial File Transfer Protocol)|69|نقل ملفات بسيط بدون مصادقة|
 |**HTTP** (Hypertext Transfer Protocol)|80|نقل صفحات الويب (غير مشفر)|
+|**POP3** (Post Office Protocol 3)|110|استلام البريد الإلكتروني (غير مشفر)|
 |**NTP** (Network Time Protocol)|123|مزامنة الوقت بين الأنظمة|
+|**IMAP** (Internet Message Access Protocol)|143|استلام البريد الإلكتروني (يدعم المجلدات)|
 |**SNMP** (Simple Network Management Protocol)|161, 162|مراقبة وإدارة الأجهزة في الشبكة|
 |**LDAP** (Lightweight Directory Access Protocol)|389|الوصول إلى خدمات الدليل (مثل Active Directory)|
 |**HTTPS** (Hypertext Transfer Protocol Secure)|443|تصفح الويب الآمن باستخدام SSL/TLS|
@@ -1551,9 +1553,12 @@ Playbooks عادة تُستخدم داخل أنظمة SOAR لتقوم بـ:
 |**Syslog**|514|إرسال سجلات النظام إلى خوادم مركزية|
 |**SMTPS** (Secure SMTP)|587|إرسال البريد الإلكتروني عبر SSL/TLS|
 |**LDAPS** (LDAP over SSL)|636|اتصال آمن بخدمات الدليل|
+|**IMAPS** (IMAP over SSL)|993|استلام البريد الإلكتروني عبر SSL/TLS|
+|**POP3S** (POP3 over SSL)|995|استلام البريد الإلكتروني عبر SSL/TLS|
 |**SQL Server**|1433|اتصال بخوادم Microsoft SQL|
 |**RDP** (Remote Desktop Protocol)|3389|اتصال سطح مكتب عن بُعد|
 |**SIP** (Session Initiation Protocol)|5060, 5061|بدء جلسات الصوت والفيديو عبر الإنترنت (VoIP)|
+
 
 ---
 ## 📘 **1.5 – Transmission Media and Transceivers**
