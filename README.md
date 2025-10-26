@@ -75,7 +75,6 @@
 > Requirements: I will choose one of the five domains.  
 > The test must include:  
 > • 10 multiple-choice questions (MCQs)  
-> • 3 realistic scenario-based questions  
 > Difficulty: Challenging / Real Exam level  
 > Question phrasing should match the real CompTIA style (clear, technical, and contextual).  
 > After I answer: Grade my test.  

@@ -1,5 +1,6 @@
 <div dir="rtl" align="right">
 
+> في اخر الصفحه قوائم جاهزه للحفظ.
 
 ## 📚 **OSI Model – CompTIA Network+ (Objective 1.1)**
 
