@@ -1,4 +1,4 @@
-
+<div dir="rtl" align="right">
 
 ## 🧱 3.1 — Architecture and Infrastructure Concepts
 
